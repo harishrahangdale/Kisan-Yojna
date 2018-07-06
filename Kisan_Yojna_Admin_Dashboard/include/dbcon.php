@@ -1,8 +1,4 @@
 <?php
-// $servername = "sql212.byethost.com";
-// $username = "b7_21961034";
-// $password = "Geeks2Devs";
-// $database = "b7_21961034_kisanyojna";
 $servername = "localhost";
 $username = "root";
 $password = "mysql";
