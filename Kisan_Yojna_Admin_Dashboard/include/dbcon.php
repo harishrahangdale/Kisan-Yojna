@@ -6,7 +6,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "mysql";
-$database = "kisan_yj";
+$database = "kisan";
 
 
 //creating a new connection object using mysqli

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ff3d00</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+
+
+    <color name="fab_color_pressed">#000000</color>
+    <color name="fab_color_shadow">#44000000</color>
+
+    <color name="style_color_primary">#9E9E9E</color>
+    <color name="style_color_primary_dark">#9E9E9E</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="primary_transparent">#103f51b5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="shadow">#555555</color>
+
+    <color name="title">#777777</color>
+
+
+    <color name="material_red_a200">#fc5858</color>
+
+    <color name="DarkSlateGray">#2f4f4f</color>
+    <color name="Gray">#808080</color>
+    <color name="Red">#FF0000</color>
+    <color name="Black">#000000</color>
+    <color name="background">#fcfcfc</color>
+    <color name="lightgrayline">#ededed</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Navy">#000080</color>
+
+    <color name="material_purple">#e040fb</color>
+
+    <color name="pager_bullet_active">#ffffff</color>
+    <color name="pager_bullet_inactive">#8a8c8c</color>
+</resources>

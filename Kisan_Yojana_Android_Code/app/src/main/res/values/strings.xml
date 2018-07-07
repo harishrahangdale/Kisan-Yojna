@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Kisan Yojana</string>
+    <string name="app_title">किसान योजना</string>
+    <string name="select_state">Select Your State\n(अपना राज्य चुनें)</string>
+    <string name="proceed">Continue\n(आगे बढे)</string>
+
+    <string name="label_google_sign_in">Sign In To Kisan Yojana</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+
+<!--
+    <string name="label_firebase_ui">FirebaseUI Auth</string>
+    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+-->
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_name_fmt">%s</string>
+    <string name="google_email_fmt">%s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+
+    <string name="firebaseui_status_fmt">Firebase User: %s</string>
+    <string name="firebaseui_title_text">FirebaseUI Auth</string>
+
+    <string name="id_fmt">User ID: %s</string>
+    <string name="email_fmt">Email: %s</string>
+    <string name="enter_mob">Enter Mobile Number</string>
+    <string name="cont">Continue</string>
+
+    <string name="spinner_title">Select State</string>
+    <string name="action_logout">Logout</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabb">Tabb</string>
+    <string name="action_exit">Exit</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <!--String Resources For Navigation Drawer Menu In Marathi-->
+
+    <string name="home_marathi">मुख्य पान</string>
+    <string name="government_schemes_marathi">शासकिय योजना</string>
+    <string name="volunteer_organization_schemes_marathi">स्वयंसेवी संस्था योजना</string>
+    <string name="exhibition_marathi">प्रदर्शन</string>
+    <string name="seminar_marathi">चर्चासत्र/कार्यशाळा</string>
+    <string name="new_invention_marathi">नवीन संशोधन</string>
+    <string name="weather_marathi">हवामान</string>
+    <string name="current_affairs_marathi">चालु घडामोडी</string>
+    <string name="smart_tips_marathi">स्मार्ट टिप्स</string>
+    <string name="expert_suggestions_marathi">कृषितज्ञ सल्ला</string>
+    <string name="about_kisan_yojna_marathi">किसान योजना विषयी</string>
+    <string name="contact_us_marathi">संपर्क करा</string>
+    <string name="share_application_marathi">शेयर ॲप्लिकेशन</string>
+    <string name="ratings_marathi">रेटिंग द्या</string>
+    <string name="privacy_policy_marathi">प्रायव्हसी पॉलिसी</string>
+    <string name="terms_of_service_marathi">नियम व अटी</string>
+
+    <!--Ends Here-->
+
+    <!--String Resources For Navigation Drawer Menu In Gujarati-->
+
+    <string name="home_gujarati">મુખ્ય પાનું</string>
+    <string name="government_schemes_gujarati">સરકારી યોજનાઓ</string>
+    <string name="volunteer_organization_schemes_gujarati">સહાયક સંસ્થાઓ યોજનાઓ</string>
+    <string name="exhibition_gujarati">પ્રદર્શન / મેળો</string>
+    <string name="seminar_gujarati">પરિસંવાદ / વ્યાખ્યાન</string>
+    <string name="new_invention_gujarati">નવું સંશોધન</string>
+    <string name="weather_gujarati">હવામાન</string>
+    <string name="current_affairs_gujarati">ખેતી સમાચાર</string>
+    <string name="smart_tips_gujarati">સ્માર્ટ ટિપ્સ</string>
+    <string name="expert_suggestions_gujarati">કૃષિ સલાહ</string>
+    <string name="about_kisan_yojna_gujarati">અમારા વિશે માહિતી</string>
+    <string name="contact_us_gujarati">સંપર્ક કરો</string>
+    <string name="share_application_gujarati">શેઅર અપ્લિકેશન</string>
+    <string name="ratings_gujarati">રેટિંગ્સ આપો</string>
+    <string name="privacy_policy_gujarati">પ્રાયવ્હસી પૉલિસી</string>
+    <string name="terms_of_service_gujarati">નિયમો</string>
+
+    <!--Ends Here-->
+
+    <!--String Resources For Navigation Drawer Menu In Hindi-->
+
+    <string name="home_hindi">होम पेज</string>
+    <string name="government_schemes_hindi">सरकारी योजना</string>
+    <string name="volunteer_organization_schemes_hindi">स्वयंसेवी संस्था योजना</string>
+    <string name="exhibition_hindi">प्रदर्शनी</string>
+    <string name="seminar_hindi">कार्यशाला</string>
+    <string name="new_invention_hindi">नया शोध-संशोधन</string>
+    <string name="weather_hindi">मौसम</string>
+    <string name="current_affairs_hindi">खेती समाचार</string>
+    <string name="smart_tips_hindi">स्मार्ट टिप्स</string>
+    <string name="expert_suggestions_hindi">खेती विशेषज्ञ सलाह</string>
+    <string name="about_kisan_yojna_hindi">किसान योजना के बारे में</string>
+    <string name="contact_us_hindi">संपर्क करें</string>
+    <string name="share_application_hindi">शेयर ॲप्लिकेशन</string>
+    <string name="ratings_hindi">रेटिंग दिजीए</string>
+    <string name="privacy_policy_hindi">प्रायव्हसी पॉलिसी</string>
+    <string name="terms_of_service_hindi">नियम और शर्तें</string>
+    <string name="admob_app_id">ca-app-pub-7433415536767197~4283411066</string>
+
+
+    <!--Ends Here-->
+
+
+</resources>

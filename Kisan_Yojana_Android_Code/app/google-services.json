@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282222493587",
+    "firebase_url": "https://kisanyojana-f2323.firebaseio.com",
+    "project_id": "kisanyojana-f2323",
+    "storage_bucket": "kisanyojana-f2323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282222493587:android:955d59cf39efaf97",
+        "android_client_info": {
+          "package_name": "com.purplechai.admin.kissanyojnaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282222493587-n3ioqjsfp3b0sr81026mchb44u4h79kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purplechai.admin.kissanyojnaapp",
+            "certificate_hash": "49cb4e2486e92f9853c420b6bd38ef8f11ad0e3e"
+          }
+        },
+        {
+          "client_id": "282222493587-qjhtgc9hk4t8jvk67sc2d80ro9vsf2vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDas7CvySOJFIs6sDt2oqVKlNlp24UYIU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282222493587-qjhtgc9hk4t8jvk67sc2d80ro9vsf2vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
